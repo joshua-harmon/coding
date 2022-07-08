@@ -68,7 +68,6 @@
    <ul class="sites">
     <li><a href="http://pyserial.readthedocs.io/en/latest/shortintro.html">docs</a></li>
     <li><a href="https://stackoverflow.com/questions/676172/full-examples-of-using-pyserial-package">examples</a></li>
-    <li><a href="https://www.google.com/search?client=ubuntu&hs=dKY&ei=JydBWvPeKaqR0gLlkZPoDw&q=python+hardware+port+interface&oq=python+hardware+port+interface&gs_l=psy-ab.3..33i22i29i30k1.5333.12221.0.12387.38.29.0.1.1.0.429.4068.0j14j3j2j1.20.0....0...1c.1.64.psy-ab..19.18.3560...0j35i39k1j0i67k1j0i20i264k1j0i20i263k1j0i10k1j0i22i30k1j33i160k1j33i21k1.0.uOuP0oTUlfE">google</a></li>
   </ul>
  </li>
   <li><a href="#">ai</a>
@@ -148,8 +147,7 @@
 <li><a href="https://www.youtube.com/watch?v=th5_9woFJmk">pyYtbe</a></li>  
 <li><a href="https://www.youtube.com/watch?v=xfzGZB4HhEE">pyTradng</a></li>  
 <li><a href="https://www.youtube.com/watch?v=N4mEzFDjqtA"></a></li>
-<li><a href="http://install.streamit-online.com/?pid=52855&clickid=VjN8MTQyNjk4NDh8MTE4MjQ5Nnw5NzIyMDB8MTUxMzE5MTE5OXwwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDB8NzIuMjM0LjI0NS4xMTd8MXxjNjc5N2Y1Mjc4Zjk2MTE2NGY5ZTkxYzFiNjQwNWM4Mw==&subid=14269848&pgs=1"></a></li>
- </ul>
+</ul>
  </li>
  <li><a href="#">pyMess5</a>
    <ul class="sites">
@@ -159,7 +157,7 @@
 <li><a href="http://www.afterhoursprogramming.com/tutorial/Python/Introduction/
 <li><a href="https://python.swaroopch.com/op_exp.html"></a></li>
 <li><a href="https://www.youtube.com/watch?list=PLAVLeeu7p-XKAYkCszMocw3sY6Sr3foWZ&v=3IKTPess7I8"></a></li>
-<li><a href="https://teamtreehouse.com/join/start-trial?irgwc=1&click_id=wrOSldwYtSJVQmXwDHRWqTu4UkmTH21hUXLdyg0&iradid=310812&ircid=3944&irpid=198007&iradname=Getsitecontrol%20Widget%20Basic%20Landing%20Page&iradtype=TEXT_LINK&iradsize=&irmpname=Code%209%20Media%2C%20Inc&irmptype=mediapartner&utm_source=ir&cid=4612"></a></li>
+<li><a href="https://teamtreehouse.com/"></a></li>
  </ul>
  </li>
  <li><a href="#">pyMess6</a>
@@ -169,8 +167,6 @@
 <li><a href="http://kitchingroup.cheme.cmu.edu/pycse/pycse.html"></a></li>
 <li><a href="http://python.devhelping.com/article/11371017/Format+and+send+seamless+audio+from+JS+to+local+PyAudio"></a></li>
 <li><a href="https://nostarch.com/download/PythonForKidsSolutions.pdf"></a></li>
-<li><a href="https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/?utm_content=promo&utm_campaign=2020-07-21&utm_source=email-sendgrid&utm_term=35101150&utm_medium=629302&couponCode=JULY_2020_SPECIAL"></a></li>
-<li><a href="https://www.coursera.org/specializations/python#howItWorks
  </ul>
  </li>
  <li><a href="#">pyMess7</a>
