@@ -1,20 +1,3 @@
-<style>
-  input[type="file"]{
-    position: absolute;
-    top: -500px;
-  }
-
-  div.file-listing{
-    width: 200px;
-  }
-
-  span.remove-file{
-    color: red;
-    cursor: pointer;
-    float: right;
-  }
-</style>
-
 <template>
   <div class="container">
     <div class="large-12 medium-12 small-12 cell">
@@ -35,7 +18,6 @@
     </div>
   </div>
 </template>
-
 <script>
   export default {
     /*
@@ -118,3 +100,21 @@
     }
   }
 </script>
+<style>
+  input[type="file"]{
+    position: absolute;
+    top: -500px;
+  }
+
+  div.file-listing{
+    width: 200px;
+  }
+
+  span.remove-file{
+    color: red;
+    cursor: pointer;
+    float: right;
+  }
+</style>
+
+
