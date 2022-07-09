@@ -67,6 +67,12 @@ const router = new Router({
           import(/* webpackChunkName: "Contact" */ "./views/Contact"),
     },
     {
+      path: "/fileUpload",
+      name: "FileUpload",
+      component: () =>
+          import(/* webpackChunkName: "FileUpload" */ "./views/FileUpload"),
+    },
+    {
       path: "/success",
       name: "Success",
       component: () =>

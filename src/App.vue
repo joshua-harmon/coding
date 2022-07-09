@@ -12,6 +12,8 @@
         <RouterLink to="/mrePython">mrePython</RouterLink> |
         <RouterLink to="/verilog">Verilog</RouterLink> |
         <RouterLink to="/contact">Contact</RouterLink>
+        <RouterLink to="/fileUpload">FileUpload</RouterLink>
+
       </nav>
     </header>
 
