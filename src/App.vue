@@ -4,6 +4,7 @@
       <nav>
         <RouterLink to="/">Home</RouterLink> |
         <RouterLink to="/about">About</RouterLink> |
+        <RouterLink to="/contracts">Contracts</RouterLink> |
         <RouterLink to="/html5">Html5</RouterLink> |
         <RouterLink to="/javascript">Javascript</RouterLink> |
         <RouterLink to="/staticPages">StaticPages</RouterLink> |
