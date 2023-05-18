@@ -1,7 +1,7 @@
 <template>
   <section id="home">
     <h1 style = "color:blue; text-align:center">WORLD OF WORK SERVICES - COOP</h1>
-    <br> Call list mining tasks below ...
+    <br> Call list mining tasks below ... ewow
     <ul>
       <li><a href="https://www.manta.com/mb_43_E7_03/manufacturing/arizona" target="_blank" rel="noopener">Manufacturing Directories</a></li>
       <li><a href="https://www.chamberofcommerce.com/united-states/arizona/" target="_blank" rel="noopener">Chamber of Commerce</a></li>
